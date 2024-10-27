@@ -5,6 +5,10 @@ A scrolling gifts webpage for 12th Wikidata Birthday . This repository contains 
 
 This animation in a webpage was created as a birthday gift at [Wikidata's 12th birthday](https://www.wikidata.org/wiki/Wikidata:Twelfth_Birthday).
 
+## Preview
+
+**[View Live Preview](https://wikimedians-of-kerala.github.io/12-wikidata-birthday-gifts/)**
+
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
