@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.835892mm"
+   height="26.270447mm"
+   viewBox="0 0 23.835892 26.270447"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="arrowd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70644641"
+     inkscape:cx="-243.47211"
+     inkscape:cy="171.98757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="SVGID_104_">
+      <rect
+         id="use76"
+         x="327"
+         y="334"
+         width="109.9"
+         height="152.89999"
+         mask="url(#SVGID_101_)"
+         clip-path="url(#SVGID_26_)" />
+    </clipPath>
+    <clipPath
+       id="SVGID_26_">
+      <rect
+         id="use20"
+         width="1920"
+         height="1080"
+         clip-path="url(#SVGID_24_)"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-169.33333,-102.92292)">
+    <polygon
+       style="fill:#dc463b"
+       points="380.7,415.4 348.8,421 392.9,472.5 416.7,409 384.8,414.6 372.1,342.2 367.9,342.9 "
+       clip-path="url(#SVGID_104_)"
+       id="polygon77"
+       mask="url(#SVGID_101_)"
+       transform="matrix(0.22407442,-0.14069469,0.14069469,0.22407442,38.652142,78.597143)" />
+  </g>
+</svg>

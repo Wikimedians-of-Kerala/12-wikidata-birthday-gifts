@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70.002464mm"
+   height="35.98333mm"
+   viewBox="0 0 70.002464 35.98333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="qmagnet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70644641"
+     inkscape:cx="145.80016"
+     inkscape:cy="87.055436"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="SVGID_26_">
+      <rect
+         id="use20"
+         width="1920"
+         height="1080"
+         clip-path="url(#SVGID_24_)"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath1">
+      <rect
+         id="rect1"
+         width="1920"
+         height="1080"
+         clip-path="url(#SVGID_24_)"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.145833,-125.4125)">
+    <path
+       class="st141"
+       d="m 82.999788,156.10416 v 0 c 0,-19.8702 -16.1925,-35.98333 -36.168541,-35.98333 v 16.29834 c 10.583333,0 19.155833,8.81062 19.155833,19.68499 z"
+       clip-path="url(#SVGID_26_)"
+       id="path91"
+       style="fill:#dc463b;stroke-width:0.264583"
+       mask="url(#SVGID_128_)"
+       transform="translate(19.314586,5.29167)" />
+    <path
+       style="fill:none;stroke:#0079a8;stroke-width:2.878;stroke-miterlimit:10"
+       d="m 234.5,818.4 c 59.5,38.8 129.9,60 200.6,60.5"
+       clip-path="url(#SVGID_26_)"
+       id="path53-2"
+       transform="matrix(0.26458333,0,0,0.26458333,21.025399,-71.961081)" />
+  </g>
+</svg>

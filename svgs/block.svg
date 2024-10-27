@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.743147mm"
+   height="62.309372mm"
+   viewBox="0 0 25.743147 62.309372"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="block.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70644641"
+     inkscape:cx="40.342763"
+     inkscape:cy="23.356336"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="SVGID_148_">
+					<rect
+   id="use102"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+
+				</clipPath>
+    <clipPath
+       id="SVGID_82_">
+							<rect
+   id="use64"
+   x="122.2"
+   y="747.90002"
+   width="44"
+   height="109.4" />
+
+						</clipPath>
+    <clipPath
+       id="SVGID_114_">
+							<rect
+   id="use82"
+   x="122.2"
+   y="854.20001"
+   width="44"
+   height="51.200001" />
+
+						</clipPath>
+    <clipPath
+       id="SVGID_120_">
+							<rect
+   id="use85"
+   x="122.2"
+   y="902.29999"
+   width="44"
+   height="51.200001" />
+
+						</clipPath>
+    <clipPath
+       id="SVGID_126_">
+							<rect
+   id="use88"
+   x="122.2"
+   y="950.20001"
+   width="44"
+   height="51.200001" />
+
+						</clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-94.274381,-142.31938)">
+    <rect
+       x="129.2"
+       y="756.90002"
+       class="st88"
+       width="36"
+       height="91.400002"
+       clip-path="url(#SVGID_82_)"
+       id="rect64"
+       style="fill:#dc463b"
+       transform="matrix(0.26458333,0,0,0.26458333,70.908333,-57.94375)" />
+    <rect
+       x="129.2"
+       y="863.20001"
+       style="fill:#dc463b"
+       width="36"
+       height="33.200001"
+       clip-path="url(#SVGID_114_)"
+       id="rect82"
+       transform="matrix(0.26458333,0,0,0.26458333,70.908333,-57.94375)" />
+    <rect
+       x="129.2"
+       y="911.29999"
+       style="fill:#dc463b"
+       width="36"
+       height="33.200001"
+       clip-path="url(#SVGID_120_)"
+       id="rect85"
+       transform="matrix(0.26458333,0,0,0.26458333,70.908333,-57.94375)" />
+    <rect
+       x="129.2"
+       y="959.20001"
+       style="fill:#dc463b"
+       width="36"
+       height="33.200001"
+       clip-path="url(#SVGID_126_)"
+       id="rect88"
+       transform="matrix(0.26458333,0,0,0.26458333,70.908333,-57.94375)" />
+    <path
+       style="fill:none;stroke:#0079a8;stroke-width:2.878;stroke-miterlimit:10"
+       d="m 89.2,769 c 48,37.6 48.3,114 95.5,152.5"
+       clip-path="url(#SVGID_148_)"
+       id="path104"
+       transform="matrix(0.26458333,0,0,0.26458333,70.908333,-57.94375)" />
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21.720573mm"
+   height="39.261681mm"
+   viewBox="0 0 21.720573 39.261681"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="spring.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70644641"
+     inkscape:cx="31.141782"
+     inkscape:cy="225.77792"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="SVGID_150_">
+      <rect
+         id="use106"
+         width="1920"
+         height="1080"
+         clip-path="url(#SVGID_24_)"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-96.572921,-88.635415)">
+    <path
+       style="fill:none;stroke:#0079a8;stroke-width:2.878;stroke-miterlimit:10"
+       d="m 1708.6,483.8 c 9.9,1.4 19.9,2.8 29.2,6.7 9.2,3.9 17.7,10.6 21.5,19.8 3.8,9.2 1.9,21.1 -6.1,27.1 -7.7,5.8 -18.6,5 -27.9,2.3 -4.2,-1.2 -8.4,-2.9 -11.4,-6 -3,-3.2 -4.3,-8.2 -2.1,-11.9 3.4,-5.6 12,-4.7 17.6,-1.4 14.6,8.6 20.2,29.5 11.9,44.1 -8.3,14.7 -29.2,20.5 -44.1,12.5 -5.4,-2.9 -10.4,-8.6 -9.1,-14.6 1.5,-7.3 11.9,-9.9 18.3,-6 6.4,3.9 9.2,11.9 9.9,19.4 2.1,23 -13.3,46.3 -35.3,53.6"
+       clip-path="url(#SVGID_150_)"
+       id="path128"
+       transform="matrix(0.26458333,0,0,0.26458333,-348.07175,-38.993015)" />
+  </g>
+</svg>

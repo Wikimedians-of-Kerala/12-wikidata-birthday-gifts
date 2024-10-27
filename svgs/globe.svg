@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="19.235046mm"
+   height="19.114645mm"
+   viewBox="0 0 19.235046 19.114645"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="globe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.9962644"
+     inkscape:cx="9.884231"
+     inkscape:cy="46.418351"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="SVGID_150_">
+					<rect
+   id="use106"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+
+				</clipPath>
+    <clipPath
+       id="clipPath1">
+					<rect
+   id="use1"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+
+				</clipPath>
+    <clipPath
+       id="clipPath2">
+					<rect
+   id="use2"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+
+				</clipPath>
+    <clipPath
+       id="clipPath3">
+					<rect
+   id="use3"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+
+				</clipPath>
+    <clipPath
+       id="clipPath4">
+					<rect
+   id="use4"
+   width="1920"
+   height="1080"
+   x="0"
+   y="0" />
+
+				</clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-125.64037,-134.21726)">
+    <g
+       id="g1">
+      <path
+         style="fill:none;stroke:#0079a8;stroke-width:3;stroke-miterlimit:10"
+         d="m 1708.9,785.5 c 18.3,5.6 37.6,-4.7 43.2,-23 5.6,-18.3 -4.7,-37.7 -23,-43.2 -18.3,-5.6 -37.6,4.7 -43.2,23 -5.6,18.2 4.7,37.6 23,43.2 z"
+         clip-path="url(#SVGID_150_)"
+         id="path139"
+         transform="matrix(0.26458333,0,0,0.26458333,-319.61667,-55.297917)" />
+      <path
+         style="fill:none;stroke:#0079a8;stroke-width:3;stroke-miterlimit:10"
+         d="m 1708.9,785.5 c 11.2,3.4 24.7,-8.7 30.3,-27 5.6,-18.3 1.1,-35.9 -10.1,-39.3 -11.2,-3.4 -24.7,8.7 -30.3,27 -5.6,18.3 -1.1,35.9 10.1,39.3 z"
+         clip-path="url(#SVGID_150_)"
+         id="path140"
+         transform="matrix(0.26458333,0,0,0.26458333,-319.61667,-55.297917)" />
+      <path
+         style="fill:none;stroke:#0079a8;stroke-width:3;stroke-miterlimit:10"
+         d="m 1729.6,717.4 c 0,0 -20,68.3 -20.8,68"
+         clip-path="url(#SVGID_150_)"
+         id="path142"
+         transform="matrix(0.26458333,0,0,0.26458333,-319.61667,-55.297917)" />
+      <path
+         style="fill:none;stroke:#0079a8;stroke-width:3;stroke-miterlimit:10"
+         d="m 1690.2,731.3 c 0,0 64.2,19.6 64.3,19.7"
+         clip-path="url(#SVGID_150_)"
+         id="path143"
+         transform="matrix(0.26458333,0,0,0.26458333,-319.61667,-55.297917)" />
+      <path
+         style="fill:none;stroke:#0079a8;stroke-width:3;stroke-miterlimit:10"
+         d="m 1683.3,755.7 c 0,0 63.1,19.3 63.6,19.4"
+         clip-path="url(#SVGID_150_)"
+         id="path144"
+         transform="matrix(0.26458333,0,0,0.26458333,-319.61667,-55.297917)" />
+    </g>
+  </g>
+</svg>
